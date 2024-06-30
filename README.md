@@ -9,6 +9,14 @@ Welcome to the YOLO-Object-Detection-for-ADAS repository! This project focuses o
 [![Object Detection Demo](utils/video_play.png)](https://youtu.be/bBrrJp9xdi4)
 
 
+
+## Full Project Description
+
+For a comprehensive overview of the project, including all steps, methodologies, and results, refer to the detailed project description/report:
+
+- `Object Detection for ADAS.ipynb`: Full project description/report, including everything about the project.
+
+
 ## Features
 
 - **Thermal Image Processing:** Utilizes thermal images to detect objects in challenging environments with low visibility.
