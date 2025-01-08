@@ -1,4 +1,4 @@
-# YOLO-Object-Detection-for-ADAS
+# YOLO Object Detection and Classification for ADAS
 
 ## Project Overview
 
